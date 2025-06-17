@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a17374ba-c616-46ce-a59d-3fc68b1744d5)
+
+
 # Prova Prática – Vaga para Desenvolvedor Júnior
 
 Nesta prova, vamos avaliar seus conhecimentos gerais em desenvolvimento web. Siga atentamente as instruções abaixo.
